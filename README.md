@@ -5,7 +5,7 @@
 > 随着不同协作风格的展现，希望让你看到自己褪掉某个固定人格标签后，充满可能的自己。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![AI Agent Rule](https://img.shields.io/badge/AI_Agent-Rule-blue)](https://github.com/SimonCoreLab/fluidself)
+[![AI Agent Rule](https://img.shields.io/badge/AI_Agent-Rule-blue)](https://github.com/SimonCoreLab/FluidSelf_Skill_CN)
 
 
 ---
@@ -62,7 +62,7 @@ FluidSelf 是一套通用 AI Agent 行为规则，不绑定任何特定平台。
 **方式二：通过 Git**
 
 ```bash
-git clone https://github.com/SimonCoreLab/fluidself.git
+git clone https://github.com/SimonCoreLab/FluidSelf_Skill_CN.git
 cp -r fluidself/ ~/.workbuddy/skills/   # 替换为你使用的平台路径
 ```
 
